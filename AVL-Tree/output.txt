@@ -1,0 +1,1 @@
+{Node(40, h=3), Node(20, h=2), Node(50, h=1), Node(10, h=1), Node(25, h=1)}
